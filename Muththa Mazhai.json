@@ -1,0 +1,1257 @@
+[
+  {
+    "word": "Muththa",
+    "start": "12.54",
+    "end": "12.93"
+  },
+  {
+    "word": "Mazhai",
+    "start": "12.93",
+    "end": "13.40"
+  },
+  {
+    "word": "Ingu",
+    "start": "13.40",
+    "end": "13.87"
+  },
+  {
+    "word": "Kotti",
+    "start": "13.87",
+    "end": "14.43"
+  },
+  {
+    "word": "Theeratho",
+    "start": "14.43",
+    "end": "18.60"
+  },
+  {
+    "word": "Mullai",
+    "start": "18.60",
+    "end": "19.12"
+  },
+  {
+    "word": "Iravugal",
+    "start": "19.12",
+    "end": "20.14"
+  },
+  {
+    "word": "Paththi",
+    "start": "20.14",
+    "end": "20.73"
+  },
+  {
+    "word": "Eriyatho",
+    "start": "20.73",
+    "end": "24.90"
+  },
+  {
+    "word": "Jaanu",
+    "start": "24.90",
+    "end": "25.26"
+  },
+  {
+    "word": "Dum",
+    "start": "25.26",
+    "end": "25.71"
+  },
+  {
+    "word": "Maaro",
+    "start": "25.71",
+    "end": "26.15"
+  },
+  {
+    "word": "Dum",
+    "start": "26.15",
+    "end": "26.60"
+  },
+  {
+    "word": "Dum",
+    "start": "26.60",
+    "end": "27.82"
+  },
+  {
+    "word": "Ingu",
+    "start": "27.82",
+    "end": "28.27"
+  },
+  {
+    "word": "Undhan",
+    "start": "28.27",
+    "end": "28.81"
+  },
+  {
+    "word": "Kaiyil",
+    "start": "28.81",
+    "end": "29.32"
+  },
+  {
+    "word": "Sorgam",
+    "start": "29.32",
+    "end": "31.47"
+  },
+  {
+    "word": "Polla",
+    "start": "31.47",
+    "end": "31.96"
+  },
+  {
+    "word": "Iravo",
+    "start": "31.96",
+    "end": "32.88"
+  },
+  {
+    "word": "Solla",
+    "start": "32.88",
+    "end": "34.04"
+  },
+  {
+    "word": "Uravo",
+    "start": "34.04",
+    "end": "37.99"
+  },
+  {
+    "word": "Illa",
+    "start": "37.99",
+    "end": "38.39"
+  },
+  {
+    "word": "Oruvanai",
+    "start": "38.39",
+    "end": "39.35"
+  },
+  {
+    "word": "Vendiyengum",
+    "start": "39.35",
+    "end": "40.55"
+  },
+  {
+    "word": "Usuro",
+    "start": "40.55",
+    "end": "43.38"
+  },
+  {
+    "word": "Kannala",
+    "start": "43.38",
+    "end": "46.35"
+  },
+  {
+    "word": "Ennala",
+    "start": "46.35",
+    "end": "49.59"
+  },
+  {
+    "word": "Pennala",
+    "start": "49.59",
+    "end": "54.20"
+  },
+  {
+    "word": "Innum",
+    "start": "54.20",
+    "end": "54.58"
+  },
+  {
+    "word": "Varum",
+    "start": "54.58",
+    "end": "54.95"
+  },
+  {
+    "word": "Endhan",
+    "start": "54.95",
+    "end": "55.37"
+  },
+  {
+    "word": "Kadhai",
+    "start": "55.37",
+    "end": "55.71"
+  },
+  {
+    "word": "Innum",
+    "start": "55.71",
+    "end": "56.14"
+  },
+  {
+    "word": "Varum",
+    "start": "56.14",
+    "end": "56.52"
+  },
+  {
+    "word": "Endhan",
+    "start": "56.52",
+    "end": "56.93"
+  },
+  {
+    "word": "Kadhai",
+    "start": "56.93",
+    "end": "57.34"
+  },
+  {
+    "word": "Innum",
+    "start": "57.34",
+    "end": "57.77"
+  },
+  {
+    "word": "Varum",
+    "start": "57.77",
+    "end": "58.15"
+  },
+  {
+    "word": "Endhan",
+    "start": "58.15",
+    "end": "58.50"
+  },
+  {
+    "word": "Kadhai",
+    "start": "58.50",
+    "end": "58.89"
+  },
+  {
+    "word": "Innum",
+    "start": "58.89",
+    "end": "59.32"
+  },
+  {
+    "word": "Varum",
+    "start": "59.32",
+    "end": "59.66"
+  },
+  {
+    "word": "Endhan",
+    "start": "59.66",
+    "end": "60.01"
+  },
+  {
+    "word": "Kadhai",
+    "start": "64.08",
+    "end": "64.42"
+  },
+  {
+    "word": "Theem",
+    "start": "64.42",
+    "end": "64.74"
+  },
+  {
+    "word": "Thom",
+    "start": "64.74",
+    "end": "65.18"
+  },
+  {
+    "word": "Tha",
+    "start": "65.18",
+    "end": "65.40"
+  },
+  {
+    "word": "Theem",
+    "start": "65.40",
+    "end": "65.63"
+  },
+  {
+    "word": "Thana",
+    "start": "65.63",
+    "end": "65.87"
+  },
+  {
+    "word": "Thom",
+    "start": "65.87",
+    "end": "66.09"
+  },
+  {
+    "word": "Thana",
+    "start": "66.09",
+    "end": "66.43"
+  },
+  {
+    "word": "Thom",
+    "start": "66.43",
+    "end": "66.91"
+  },
+  {
+    "word": "Theem",
+    "start": "66.91",
+    "end": "67.17"
+  },
+  {
+    "word": "Thana",
+    "start": "67.17",
+    "end": "67.44"
+  },
+  {
+    "word": "Thom",
+    "start": "67.44",
+    "end": "67.80"
+  },
+  {
+    "word": "Thana",
+    "start": "67.80",
+    "end": "68.39"
+  },
+  {
+    "word": "Theem",
+    "start": "68.39",
+    "end": "68.68"
+  },
+  {
+    "word": "Thana",
+    "start": "68.68",
+    "end": "69.14"
+  },
+  {
+    "word": "Thom",
+    "start": "69.14",
+    "end": "70.05"
+  },
+  {
+    "word": "Theem",
+    "start": "70.05",
+    "end": "70.32"
+  },
+  {
+    "word": "Thana",
+    "start": "70.32",
+    "end": "70.85"
+  },
+  {
+    "word": "Thom",
+    "start": "70.85",
+    "end": "71.11"
+  },
+  {
+    "word": "Thana",
+    "start": "71.11",
+    "end": "71.71"
+  },
+  {
+    "word": "Theem",
+    "start": "71.71",
+    "end": "72.01"
+  },
+  {
+    "word": "Thana",
+    "start": "72.01",
+    "end": "72.30"
+  },
+  {
+    "word": "Thom",
+    "start": "72.30",
+    "end": "73.44"
+  },
+  {
+    "word": "Kaalai",
+    "start": "73.44",
+    "end": "73.86"
+  },
+  {
+    "word": "Kanavinil",
+    "start": "73.86",
+    "end": "74.90"
+  },
+  {
+    "word": "Kadhal",
+    "start": "74.90",
+    "end": "75.37"
+  },
+  {
+    "word": "Kondaen",
+    "start": "75.37",
+    "end": "76.43"
+  },
+  {
+    "word": "Kann",
+    "start": "76.43",
+    "end": "77.00"
+  },
+  {
+    "word": "Vizhithen",
+    "start": "77.00",
+    "end": "77.60"
+  },
+  {
+    "word": "Avan",
+    "start": "77.60",
+    "end": "77.99"
+  },
+  {
+    "word": "Kaanavillai",
+    "start": "77.99",
+    "end": "79.73"
+  },
+  {
+    "word": "Kann",
+    "start": "79.73",
+    "end": "80.29"
+  },
+  {
+    "word": "Vizhiththaen",
+    "start": "80.29",
+    "end": "80.83"
+  },
+  {
+    "word": "Avan",
+    "start": "80.83",
+    "end": "81.24"
+  },
+  {
+    "word": "Kaanavillai",
+    "start": "81.24",
+    "end": "82.92"
+  },
+  {
+    "word": "Kann",
+    "start": "82.92",
+    "end": "83.24"
+  },
+  {
+    "word": "Vizhiththaen",
+    "start": "83.24",
+    "end": "84.03"
+  },
+  {
+    "word": "Avan",
+    "start": "84.03",
+    "end": "84.44"
+  },
+  {
+    "word": "Kaanavillai",
+    "start": "84.44",
+    "end": "86.04"
+  },
+  {
+    "word": "Ennodu",
+    "start": "86.04",
+    "end": "87.00"
+  },
+  {
+    "word": "Unnai",
+    "start": "87.00",
+    "end": "87.70"
+  },
+  {
+    "word": "Ondraakkum",
+    "start": "87.70",
+    "end": "88.81"
+  },
+  {
+    "word": "Varai",
+    "start": "88.81",
+    "end": "89.36"
+  },
+  {
+    "word": "Enna",
+    "start": "89.36",
+    "end": "89.86"
+  },
+  {
+    "word": "Seithum",
+    "start": "89.86",
+    "end": "90.41"
+  },
+  {
+    "word": "Vazhi",
+    "start": "90.41",
+    "end": "90.93"
+  },
+  {
+    "word": "Theeravillai",
+    "start": "90.93",
+    "end": "92.62"
+  },
+  {
+    "word": "Kannaana",
+    "start": "92.62",
+    "end": "93.26"
+  },
+  {
+    "word": "Kannae",
+    "start": "93.26",
+    "end": "93.74"
+  },
+  {
+    "word": "En",
+    "start": "93.74",
+    "end": "94.10"
+  },
+  {
+    "word": "Kannaalaa",
+    "start": "94.10",
+    "end": "95.56"
+  },
+  {
+    "word": "En",
+    "start": "95.56",
+    "end": "95.86"
+  },
+  {
+    "word": "Ull",
+    "start": "95.86",
+    "end": "96.24"
+  },
+  {
+    "word": "Mana",
+    "start": "96.24",
+    "end": "96.61"
+  },
+  {
+    "word": "Kadhalai",
+    "start": "96.61",
+    "end": "97.34"
+  },
+  {
+    "word": "Kandaayaa",
+    "start": "97.34",
+    "end": "98.56"
+  },
+  {
+    "word": "Karu",
+    "start": "98.56",
+    "end": "98.92"
+  },
+  {
+    "word": "Mai",
+    "start": "98.92",
+    "end": "99.29"
+  },
+  {
+    "word": "Konda",
+    "start": "99.29",
+    "end": "99.77"
+  },
+  {
+    "word": "Kannokki",
+    "start": "99.77",
+    "end": "100.56"
+  },
+  {
+    "word": "Poi",
+    "start": "100.56",
+    "end": "100.88"
+  },
+  {
+    "word": "Solli",
+    "start": "100.88",
+    "end": "101.46"
+  },
+  {
+    "word": "Nindraayaa",
+    "start": "101.46",
+    "end": "102.21"
+  },
+  {
+    "word": "Pothum",
+    "start": "102.21",
+    "end": "102.65"
+  },
+  {
+    "word": "Pothum",
+    "start": "102.65",
+    "end": "103.14"
+  },
+  {
+    "word": "Ena",
+    "start": "103.14",
+    "end": "103.71"
+  },
+  {
+    "word": "Sendraayaa",
+    "start": "103.71",
+    "end": "105.22"
+  },
+  {
+    "word": "Kadhal",
+    "start": "105.22",
+    "end": "105.52"
+  },
+  {
+    "word": "Vanthaalum",
+    "start": "105.52",
+    "end": "106.17"
+  },
+  {
+    "word": "Ponaalum",
+    "start": "106.17",
+    "end": "106.93"
+  },
+  {
+    "word": "Pennenna",
+    "start": "106.93",
+    "end": "107.71"
+  },
+  {
+    "word": "Seivaayo",
+    "start": "107.71",
+    "end": "108.68"
+  },
+  {
+    "word": "Muthamazhai",
+    "start": "108.68",
+    "end": "109.10"
+  },
+  {
+    "word": "Ingu",
+    "start": "109.10",
+    "end": "110.10"
+  },
+  {
+    "word": "Kotti",
+    "start": "110.10",
+    "end": "110.72"
+  },
+  {
+    "word": "Theeraatho",
+    "start": "110.72",
+    "end": "114.94"
+  },
+  {
+    "word": "Mullai",
+    "start": "114.94",
+    "end": "115.50"
+  },
+  {
+    "word": "Iravugal",
+    "start": "115.50",
+    "end": "116.45"
+  },
+  {
+    "word": "Pathi",
+    "start": "116.45",
+    "end": "117.03"
+  },
+  {
+    "word": "Eriyaatho",
+    "start": "117.03",
+    "end": "121.15"
+  },
+  {
+    "word": "Jaanu",
+    "start": "121.15",
+    "end": "121.52"
+  },
+  {
+    "word": "Dum",
+    "start": "121.52",
+    "end": "121.99"
+  },
+  {
+    "word": "Maaro",
+    "start": "121.99",
+    "end": "122.47"
+  },
+  {
+    "word": "Dum",
+    "start": "122.47",
+    "end": "122.94"
+  },
+  {
+    "word": "Dum",
+    "start": "122.94",
+    "end": "124.15"
+  },
+  {
+    "word": "Ingu",
+    "start": "124.15",
+    "end": "124.64"
+  },
+  {
+    "word": "Unthan",
+    "start": "124.64",
+    "end": "125.17"
+  },
+  {
+    "word": "Kaiyil",
+    "start": "125.17",
+    "end": "125.73"
+  },
+  {
+    "word": "Sorgam",
+    "start": "125.73",
+    "end": "144.10"
+  },
+  {
+    "word": "Oh",
+    "start": "144.10",
+    "end": "144.37"
+  },
+  {
+    "word": "Palai",
+    "start": "144.37",
+    "end": "144.86"
+  },
+  {
+    "word": "Nilaththinil",
+    "start": "144.86",
+    "end": "145.51"
+  },
+  {
+    "word": "Cholai",
+    "start": "145.51",
+    "end": "146.12"
+  },
+  {
+    "word": "Nizhalena",
+    "start": "146.12",
+    "end": "147.18"
+  },
+  {
+    "word": "Kadhal",
+    "start": "147.18",
+    "end": "147.76"
+  },
+  {
+    "word": "Solven",
+    "start": "147.76",
+    "end": "148.36"
+  },
+  {
+    "word": "Naan",
+    "start": "148.36",
+    "end": "148.82"
+  },
+  {
+    "word": "Kadhal",
+    "start": "148.82",
+    "end": "149.37"
+  },
+  {
+    "word": "Solvaen",
+    "start": "149.37",
+    "end": "150.26"
+  },
+  {
+    "word": "Moga",
+    "start": "150.26",
+    "end": "150.60"
+  },
+  {
+    "word": "Pani",
+    "start": "150.60",
+    "end": "150.97"
+  },
+  {
+    "word": "Porvaiyil",
+    "start": "150.97",
+    "end": "151.86"
+  },
+  {
+    "word": "Karam",
+    "start": "151.86",
+    "end": "152.36"
+  },
+  {
+    "word": "Korkkaiyil",
+    "start": "152.36",
+    "end": "153.49"
+  },
+  {
+    "word": "Kadhal",
+    "start": "153.49",
+    "end": "154.01"
+  },
+  {
+    "word": "Solvaen",
+    "start": "154.01",
+    "end": "154.64"
+  },
+  {
+    "word": "Kaadhil",
+    "start": "154.64",
+    "end": "155.13"
+  },
+  {
+    "word": "Kadhal",
+    "start": "155.13",
+    "end": "155.63"
+  },
+  {
+    "word": "Solvaen",
+    "start": "155.63",
+    "end": "156.44"
+  },
+  {
+    "word": "Naan",
+    "start": "156.44",
+    "end": "156.90"
+  },
+  {
+    "word": "Kaadhali,",
+    "start": "156.90",
+    "end": "158.45"
+  },
+  {
+    "word": "Kaadhalan",
+    "start": "158.45",
+    "end": "159.18"
+  },
+  {
+    "word": "Nee",
+    "start": "159.18",
+    "end": "160.04"
+  },
+  {
+    "word": "Veru",
+    "start": "160.04",
+    "end": "160.56"
+  },
+  {
+    "word": "Ellaam",
+    "start": "160.56",
+    "end": "161.02"
+  },
+  {
+    "word": "Verum",
+    "start": "161.02",
+    "end": "161.56"
+  },
+  {
+    "word": "Vesham",
+    "start": "161.56",
+    "end": "162.12"
+  },
+  {
+    "word": "Enbaen",
+    "start": "162.12",
+    "end": "163.30"
+  },
+  {
+    "word": "Vesham",
+    "start": "163.30",
+    "end": "163.81"
+  },
+  {
+    "word": "Enbaen",
+    "start": "163.81",
+    "end": "164.39"
+  },
+  {
+    "word": "Verum",
+    "start": "164.39",
+    "end": "164.78"
+  },
+  {
+    "word": "Vesham",
+    "start": "164.78",
+    "end": "165.37"
+  },
+  {
+    "word": "Enbaen",
+    "start": "165.37",
+    "end": "166.55"
+  },
+  {
+    "word": "Kaalam",
+    "start": "166.55",
+    "end": "167.33"
+  },
+  {
+    "word": "Yaavum",
+    "start": "167.33",
+    "end": "168.09"
+  },
+  {
+    "word": "Neethaanae",
+    "start": "168.09",
+    "end": "169.15"
+  },
+  {
+    "word": "Intha",
+    "start": "169.15",
+    "end": "169.63"
+  },
+  {
+    "word": "Kaalan",
+    "start": "169.63",
+    "end": "170.45"
+  },
+  {
+    "word": "Vanthaal",
+    "start": "170.45",
+    "end": "171.31"
+  },
+  {
+    "word": "Velvaenae",
+    "start": "171.31",
+    "end": "172.56"
+  },
+  {
+    "word": "Varum",
+    "start": "172.56",
+    "end": "172.95"
+  },
+  {
+    "word": "Oru",
+    "start": "172.95",
+    "end": "173.41"
+  },
+  {
+    "word": "Sooriyan",
+    "start": "173.41",
+    "end": "174.42"
+  },
+  {
+    "word": "Pala",
+    "start": "174.42",
+    "end": "174.94"
+  },
+  {
+    "word": "Thaaragai",
+    "start": "174.94",
+    "end": "176.06"
+  },
+  {
+    "word": "Mannil",
+    "start": "176.06",
+    "end": "176.87"
+  },
+  {
+    "word": "Minnal",
+    "start": "176.87",
+    "end": "177.63"
+  },
+  {
+    "word": "Veezhaathae",
+    "start": "177.63",
+    "end": "179.30"
+  },
+  {
+    "word": "Mannil",
+    "start": "179.30",
+    "end": "180.07"
+  },
+  {
+    "word": "Minnal",
+    "start": "180.07",
+    "end": "180.86"
+  },
+  {
+    "word": "Veezhaathae",
+    "start": "180.86",
+    "end": "182.09"
+  },
+  {
+    "word": "Kadhal",
+    "start": "182.09",
+    "end": "182.61"
+  },
+  {
+    "word": "Vanthaalum",
+    "start": "182.61",
+    "end": "183.35"
+  },
+  {
+    "word": "Ponaalum",
+    "start": "183.35",
+    "end": "184.05"
+  },
+  {
+    "word": "Pennenna",
+    "start": "184.05",
+    "end": "184.47"
+  },
+  {
+    "word": "Seivaayo",
+    "start": "184.47",
+    "end": "185.22"
+  },
+  {
+    "word": "Innum",
+    "start": "185.22",
+    "end": "186.20"
+  },
+  {
+    "word": "Oru",
+    "start": "186.20",
+    "end": "186.75"
+  },
+  {
+    "word": "Murai",
+    "start": "186.75",
+    "end": "187.33"
+  },
+  {
+    "word": "Enthan",
+    "start": "187.33",
+    "end": "187.91"
+  },
+  {
+    "word": "Kadhai",
+    "start": "187.91",
+    "end": "188.48"
+  },
+  {
+    "word": "Sollavaa",
+    "start": "188.48",
+    "end": "189.02"
+  },
+  {
+    "word": "Sol",
+    "start": "189.02",
+    "end": "189.33"
+  },
+  {
+    "word": "Sol",
+    "start": "189.33",
+    "end": "189.53"
+  },
+  {
+    "word": "Sol",
+    "start": "189.53",
+    "end": "189.75"
+  },
+  {
+    "word": "Sol",
+    "start": "189.75",
+    "end": "189.96"
+  },
+  {
+    "word": "Sol",
+    "start": "189.96",
+    "end": "190.19"
+  },
+  {
+    "word": "Sol",
+    "start": "190.19",
+    "end": "190.41"
+  },
+  {
+    "word": "Sol",
+    "start": "190.41",
+    "end": "190.66"
+  },
+  {
+    "word": "Sol",
+    "start": "190.66",
+    "end": "190.96"
+  },
+  {
+    "word": "Sol",
+    "start": "190.96",
+    "end": "191.11"
+  },
+  {
+    "word": "Sol",
+    "start": "191.11",
+    "end": "191.37"
+  },
+  {
+    "word": "Sol",
+    "start": "191.37",
+    "end": "191.70"
+  },
+  {
+    "word": "Sol",
+    "start": "191.70",
+    "end": "192.23"
+  },
+  {
+    "word": "Kadhil",
+    "start": "192.23",
+    "end": "192.77"
+  },
+  {
+    "word": "Vizhum",
+    "start": "192.77",
+    "end": "193.28"
+  },
+  {
+    "word": "Varum",
+    "start": "193.28",
+    "end": "193.79"
+  },
+  {
+    "word": "Varai",
+    "start": "193.79",
+    "end": "194.34"
+  },
+  {
+    "word": "Kadhal",
+    "start": "194.34",
+    "end": "194.63"
+  },
+  {
+    "word": "Paadavaa",
+    "start": "194.63",
+    "end": "195.52"
+  },
+  {
+    "word": "PaadavaaAaAa",
+    "start": "195.52",
+    "end": "198.24"
+  },
+  {
+    "word": "Jaanu",
+    "start": "198.24",
+    "end": "198.63"
+  },
+  {
+    "word": "Dum",
+    "start": "198.63",
+    "end": "199.17"
+  },
+  {
+    "word": "Maaro",
+    "start": "199.17",
+    "end": "199.66"
+  },
+  {
+    "word": "Dum",
+    "start": "199.66",
+    "end": "200.09"
+  },
+  {
+    "word": "Dum",
+    "start": "200.09",
+    "end": "201.45"
+  },
+  {
+    "word": "Ingu",
+    "start": "201.45",
+    "end": "201.83"
+  },
+  {
+    "word": "Unthan",
+    "start": "201.83",
+    "end": "202.39"
+  },
+  {
+    "word": "Kaiyil",
+    "start": "202.39",
+    "end": "202.88"
+  },
+  {
+    "word": "Sorgam",
+    "start": "202.88",
+    "end": "205.03"
+  },
+  {
+    "word": "Pollaa",
+    "start": "205.03",
+    "end": "205.62"
+  },
+  {
+    "word": "Iravo",
+    "start": "205.62",
+    "end": "206.47"
+  },
+  {
+    "word": "Sollaa",
+    "start": "206.47",
+    "end": "207.69"
+  },
+  {
+    "word": "Uravo",
+    "start": "207.69",
+    "end": "211.52"
+  },
+  {
+    "word": "Illaa",
+    "start": "211.52",
+    "end": "212.01"
+  },
+  {
+    "word": "Oruvanai",
+    "start": "212.01",
+    "end": "212.94"
+  },
+  {
+    "word": "Vendiyengum",
+    "start": "212.94",
+    "end": "214.09"
+  },
+  {
+    "word": "Usuro",
+    "start": "214.09",
+    "end": "216.96"
+  },
+  {
+    "word": "Kannaalaa",
+    "start": "216.96",
+    "end": "219.91"
+  },
+  {
+    "word": "Ennaalaa",
+    "start": "219.91",
+    "end": "223.30"
+  },
+  {
+    "word": "Pennaalaa",
+    "start": "223.30",
+    "end": "227.72"
+  },
+  {
+    "word": "Innum",
+    "start": "227.72",
+    "end": "228.13"
+  },
+  {
+    "word": "Varum",
+    "start": "228.13",
+    "end": "228.51"
+  },
+  {
+    "word": "Enthan",
+    "start": "228.51",
+    "end": "228.91"
+  },
+  {
+    "word": "Kadhai",
+    "start": "228.91",
+    "end": "229.24"
+  },
+  {
+    "word": "Innum",
+    "start": "229.24",
+    "end": "229.70"
+  },
+  {
+    "word": "Varum",
+    "start": "229.70",
+    "end": "230.01"
+  },
+  {
+    "word": "Enthan",
+    "start": "230.01",
+    "end": "230.41"
+  },
+  {
+    "word": "Kadhai",
+    "start": "230.41",
+    "end": "230.81"
+  },
+  {
+    "word": "Innum",
+    "start": "230.81",
+    "end": "231.28"
+  },
+  {
+    "word": "Varum",
+    "start": "231.28",
+    "end": "231.65"
+  },
+  {
+    "word": "Enthan",
+    "start": "231.65",
+    "end": "232.05"
+  },
+  {
+    "word": "Kadhai",
+    "start": "232.05",
+    "end": "232.47"
+  },
+  {
+    "word": "Innum",
+    "start": "232.47",
+    "end": "232.86"
+  },
+  {
+    "word": "Varum",
+    "start": "232.86",
+    "end": "233.22"
+  },
+  {
+    "word": "Enthan",
+    "start": "233.22",
+    "end": "233.67"
+  },
+  {
+    "word": "Kadhai",
+    "start": "233.67",
+    "end": "234.54"
+  }
+]
