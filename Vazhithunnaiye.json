@@ -1,0 +1,767 @@
+[
+  {
+    "word": "Vaanam",
+    "start": "9.15",
+    "end": "9.81"
+  },
+  {
+    "word": "paarthukkidandhaenae",
+    "start": "9.81",
+    "end": "11.33"
+  },
+  {
+    "word": "mazhaiyaai",
+    "start": "11.33",
+    "end": "12.03"
+  },
+  {
+    "word": "vandhu",
+    "start": "12.03",
+    "end": "12.52"
+  },
+  {
+    "word": "vizhundhaayae",
+    "start": "12.52",
+    "end": "13.82"
+  },
+  {
+    "word": "Vazhithunaiyae,",
+    "start": "13.82",
+    "end": "16.22"
+  },
+  {
+    "word": "vazhithunaiyae",
+    "start": "16.22",
+    "end": "17.21"
+  },
+  {
+    "word": "neeyae",
+    "start": "17.21",
+    "end": "36.73"
+  },
+  {
+    "word": "Kandaen,",
+    "start": "36.73",
+    "end": "37.63"
+  },
+  {
+    "word": "kandaen",
+    "start": "37.63",
+    "end": "38.47"
+  },
+  {
+    "word": "ennudayavalai",
+    "start": "38.47",
+    "end": "41.33"
+  },
+  {
+    "word": "Thandhaen,",
+    "start": "41.33",
+    "end": "42.15"
+  },
+  {
+    "word": "thandhaen",
+    "start": "42.15",
+    "end": "43.04"
+  },
+  {
+    "word": "michcha",
+    "start": "43.04",
+    "end": "43.62"
+  },
+  {
+    "word": "uyirai",
+    "start": "43.62",
+    "end": "45.79"
+  },
+  {
+    "word": "Kandaen,",
+    "start": "45.79",
+    "end": "46.69"
+  },
+  {
+    "word": "kandaen",
+    "start": "46.69",
+    "end": "47.68"
+  },
+  {
+    "word": "ennudayavanai",
+    "start": "47.68",
+    "end": "50.42"
+  },
+  {
+    "word": "Thandhaen,",
+    "start": "50.42",
+    "end": "51.25"
+  },
+  {
+    "word": "thandhaen",
+    "start": "51.25",
+    "end": "52.15"
+  },
+  {
+    "word": "michcha",
+    "start": "52.15",
+    "end": "52.84"
+  },
+  {
+    "word": "uyirai",
+    "start": "52.84",
+    "end": "54.94"
+  },
+  {
+    "word": "Uttru",
+    "start": "54.94",
+    "end": "55.69"
+  },
+  {
+    "word": "unnai",
+    "start": "55.69",
+    "end": "56.16"
+  },
+  {
+    "word": "paarkkaiyilae",
+    "start": "56.16",
+    "end": "57.26"
+  },
+  {
+    "word": "Thoattru",
+    "start": "57.26",
+    "end": "58.00"
+  },
+  {
+    "word": "kidaiththa",
+    "start": "58.00",
+    "end": "58.40"
+  },
+  {
+    "word": "thanimaiyinai",
+    "start": "58.40",
+    "end": "59.52"
+  },
+  {
+    "word": "Kattru",
+    "start": "59.52",
+    "end": "60.21"
+  },
+  {
+    "word": "thandha",
+    "start": "60.21",
+    "end": "60.74"
+  },
+  {
+    "word": "kaadhal",
+    "start": "60.74",
+    "end": "61.15"
+  },
+  {
+    "word": "vali",
+    "start": "61.15",
+    "end": "61.86"
+  },
+  {
+    "word": "Vittu",
+    "start": "61.86",
+    "end": "62.71"
+  },
+  {
+    "word": "ponadhae",
+    "start": "62.71",
+    "end": "63.98"
+  },
+  {
+    "word": "Oorkkoodum",
+    "start": "63.98",
+    "end": "64.56"
+  },
+  {
+    "word": "nalla-nalla",
+    "start": "64.56",
+    "end": "65.33"
+  },
+  {
+    "word": "thalangallellaam",
+    "start": "65.33",
+    "end": "66.14"
+  },
+  {
+    "word": "Unnai",
+    "start": "66.14",
+    "end": "66.50"
+  },
+  {
+    "word": "koottikkondu",
+    "start": "66.50",
+    "end": "67.35"
+  },
+  {
+    "word": "kai",
+    "start": "67.35",
+    "end": "67.75"
+  },
+  {
+    "word": "koarthukkondu",
+    "start": "67.75",
+    "end": "68.46"
+  },
+  {
+    "word": "Idhazh",
+    "start": "68.46",
+    "end": "68.87"
+  },
+  {
+    "word": "saerthuvaikka",
+    "start": "68.87",
+    "end": "69.57"
+  },
+  {
+    "word": "nalla",
+    "start": "69.57",
+    "end": "69.91"
+  },
+  {
+    "word": "idangallellaam",
+    "start": "69.91",
+    "end": "70.61"
+  },
+  {
+    "word": "Vaa",
+    "start": "70.61",
+    "end": "71.03"
+  },
+  {
+    "word": "thaedi-thaedi",
+    "start": "71.03",
+    "end": "72.08"
+  },
+  {
+    "word": "povom",
+    "start": "72.08",
+    "end": "72.88"
+  },
+  {
+    "word": "Idhazh",
+    "start": "72.88",
+    "end": "73.26"
+  },
+  {
+    "word": "saerndhirukkum",
+    "start": "73.26",
+    "end": "74.02"
+  },
+  {
+    "word": "andha",
+    "start": "74.02",
+    "end": "74.42"
+  },
+  {
+    "word": "neraththilae",
+    "start": "74.42",
+    "end": "75.13"
+  },
+  {
+    "word": "Vizhi",
+    "start": "75.13",
+    "end": "75.53"
+  },
+  {
+    "word": "moodi",
+    "start": "75.53",
+    "end": "75.96"
+  },
+  {
+    "word": "nee",
+    "start": "75.96",
+    "end": "76.31"
+  },
+  {
+    "word": "irukkum",
+    "start": "76.31",
+    "end": "76.78"
+  },
+  {
+    "word": "vaelaiyilae",
+    "start": "76.78",
+    "end": "77.57"
+  },
+  {
+    "word": "Ennenna",
+    "start": "77.57",
+    "end": "78.21"
+  },
+  {
+    "word": "varam",
+    "start": "78.21",
+    "end": "78.58"
+  },
+  {
+    "word": "vaendum",
+    "start": "78.58",
+    "end": "78.97"
+  },
+  {
+    "word": "enbadhaiyae",
+    "start": "78.97",
+    "end": "79.68"
+  },
+  {
+    "word": "Naan",
+    "start": "79.68",
+    "end": "80.11"
+  },
+  {
+    "word": "vaendi-vaendi",
+    "start": "80.11",
+    "end": "81.19"
+  },
+  {
+    "word": "kaetppaen",
+    "start": "81.19",
+    "end": "82.22"
+  },
+  {
+    "word": "Vaanam",
+    "start": "82.22",
+    "end": "82.85"
+  },
+  {
+    "word": "paarthukkidandhaenae",
+    "start": "82.85",
+    "end": "84.36"
+  },
+  {
+    "word": "mazhaiyaai",
+    "start": "84.36",
+    "end": "85.04"
+  },
+  {
+    "word": "vandhu",
+    "start": "85.04",
+    "end": "85.43"
+  },
+  {
+    "word": "vizhundhaayae",
+    "start": "85.43",
+    "end": "86.68"
+  },
+  {
+    "word": "Vazhithunaiyae,",
+    "start": "86.68",
+    "end": "89.00"
+  },
+  {
+    "word": "vazhithunaiyae",
+    "start": "89.00",
+    "end": "91.36"
+  },
+  {
+    "word": "Vannam",
+    "start": "91.36",
+    "end": "91.96"
+  },
+  {
+    "word": "soozhndha",
+    "start": "91.96",
+    "end": "92.46"
+  },
+  {
+    "word": "idamellaam",
+    "start": "92.46",
+    "end": "93.42"
+  },
+  {
+    "word": "vaa-vaa",
+    "start": "93.42",
+    "end": "94.18"
+  },
+  {
+    "word": "oadi",
+    "start": "94.18",
+    "end": "94.65"
+  },
+  {
+    "word": "thiruvom",
+    "start": "94.65",
+    "end": "95.15"
+  },
+  {
+    "word": "vaa",
+    "start": "95.15",
+    "end": "95.86"
+  },
+  {
+    "word": "En",
+    "start": "95.86",
+    "end": "96.32"
+  },
+  {
+    "word": "thunaiyae,",
+    "start": "96.32",
+    "end": "98.04"
+  },
+  {
+    "word": "vazhithunaiyae",
+    "start": "98.04",
+    "end": "99.12"
+  },
+  {
+    "word": "neeyae",
+    "start": "99.12",
+    "end": "109.81"
+  },
+  {
+    "word": "Kandaen,",
+    "start": "109.81",
+    "end": "110.56"
+  },
+  {
+    "word": "kandaen",
+    "start": "110.56",
+    "end": "111.59"
+  },
+  {
+    "word": "ennudayavalai",
+    "start": "111.59",
+    "end": "114.41"
+  },
+  {
+    "word": "Thandhaen,",
+    "start": "114.41",
+    "end": "115.36"
+  },
+  {
+    "word": "thandhaen",
+    "start": "115.36",
+    "end": "116.16"
+  },
+  {
+    "word": "michcha",
+    "start": "116.16",
+    "end": "116.71"
+  },
+  {
+    "word": "uyirai",
+    "start": "116.71",
+    "end": "139.93"
+  },
+  {
+    "word": "Indha",
+    "start": "139.93",
+    "end": "140.34"
+  },
+  {
+    "word": "naeram",
+    "start": "140.34",
+    "end": "140.80"
+  },
+  {
+    "word": "inippadhu",
+    "start": "140.80",
+    "end": "141.34"
+  },
+  {
+    "word": "poala",
+    "start": "141.34",
+    "end": "141.92"
+  },
+  {
+    "word": "eppodhum",
+    "start": "141.92",
+    "end": "142.95"
+  },
+  {
+    "word": "irupaayaa?",
+    "start": "142.95",
+    "end": "144.39"
+  },
+  {
+    "word": "Utcha-batcha",
+    "start": "144.39",
+    "end": "145.15"
+  },
+  {
+    "word": "aasai",
+    "start": "145.15",
+    "end": "145.79"
+  },
+  {
+    "word": "kondaenae",
+    "start": "145.79",
+    "end": "147.32"
+  },
+  {
+    "word": "unnidathinilae",
+    "start": "147.32",
+    "end": "149.04"
+  },
+  {
+    "word": "Vetppam",
+    "start": "149.04",
+    "end": "149.44"
+  },
+  {
+    "word": "kulir",
+    "start": "149.44",
+    "end": "149.85"
+  },
+  {
+    "word": "edhu",
+    "start": "149.85",
+    "end": "150.27"
+  },
+  {
+    "word": "vandhaalum",
+    "start": "150.27",
+    "end": "151.09"
+  },
+  {
+    "word": "idhamaaga",
+    "start": "151.09",
+    "end": "152.28"
+  },
+  {
+    "word": "inaippaayaa?",
+    "start": "152.28",
+    "end": "153.58"
+  },
+  {
+    "word": "Thikku-mukku",
+    "start": "153.58",
+    "end": "154.40"
+  },
+  {
+    "word": "aadippogindraen",
+    "start": "154.40",
+    "end": "158.04"
+  },
+  {
+    "word": "Neerveezhchi",
+    "start": "158.04",
+    "end": "158.85"
+  },
+  {
+    "word": "nettriyin",
+    "start": "158.85",
+    "end": "159.49"
+  },
+  {
+    "word": "meedhu",
+    "start": "159.49",
+    "end": "160.47"
+  },
+  {
+    "word": "nirkkaamal",
+    "start": "160.47",
+    "end": "161.21"
+  },
+  {
+    "word": "pozhivadhu",
+    "start": "161.21",
+    "end": "161.76"
+  },
+  {
+    "word": "poala",
+    "start": "161.76",
+    "end": "162.58"
+  },
+  {
+    "word": "Un",
+    "start": "162.58",
+    "end": "162.98"
+  },
+  {
+    "word": "muththam",
+    "start": "162.98",
+    "end": "163.62"
+  },
+  {
+    "word": "kottida",
+    "start": "163.62",
+    "end": "164.15"
+  },
+  {
+    "word": "vaendum",
+    "start": "164.15",
+    "end": "164.63"
+  },
+  {
+    "word": "puruvam",
+    "start": "164.63",
+    "end": "165.05"
+  },
+  {
+    "word": "thudangi",
+    "start": "165.05",
+    "end": "165.47"
+  },
+  {
+    "word": "nunipaadham",
+    "start": "165.47",
+    "end": "165.88"
+  },
+  {
+    "word": "varai",
+    "start": "165.88",
+    "end": "167.40"
+  },
+  {
+    "word": "Engaeyo",
+    "start": "167.40",
+    "end": "168.12"
+  },
+  {
+    "word": "pirandha",
+    "start": "168.12",
+    "end": "168.58"
+  },
+  {
+    "word": "en",
+    "start": "168.58",
+    "end": "168.89"
+  },
+  {
+    "word": "anbae",
+    "start": "168.89",
+    "end": "169.54"
+  },
+  {
+    "word": "enai",
+    "start": "169.54",
+    "end": "169.87"
+  },
+  {
+    "word": "thaedi",
+    "start": "169.87",
+    "end": "170.40"
+  },
+  {
+    "word": "vandhadhae",
+    "start": "170.40",
+    "end": "170.91"
+  },
+  {
+    "word": "podhum",
+    "start": "170.91",
+    "end": "171.68"
+  },
+  {
+    "word": "Ini",
+    "start": "171.68",
+    "end": "172.09"
+  },
+  {
+    "word": "vaazhum",
+    "start": "172.09",
+    "end": "172.66"
+  },
+  {
+    "word": "aththanai",
+    "start": "172.66",
+    "end": "173.18"
+  },
+  {
+    "word": "naalum",
+    "start": "173.18",
+    "end": "173.72"
+  },
+  {
+    "word": "minukkum,",
+    "start": "173.72",
+    "end": "174.20"
+  },
+  {
+    "word": "minu-minukkumae",
+    "start": "174.20",
+    "end": "175.88"
+  },
+  {
+    "word": "Vaanam",
+    "start": "175.88",
+    "end": "176.63"
+  },
+  {
+    "word": "paarthukkidandhaenae",
+    "start": "176.63",
+    "end": "178.13"
+  },
+  {
+    "word": "mazhaiyaai",
+    "start": "178.13",
+    "end": "178.77"
+  },
+  {
+    "word": "vandhu",
+    "start": "178.77",
+    "end": "179.20"
+  },
+  {
+    "word": "vizhundhaayae",
+    "start": "179.20",
+    "end": "180.40"
+  },
+  {
+    "word": "Vazhithunaiyae,",
+    "start": "180.40",
+    "end": "182.69"
+  },
+  {
+    "word": "vazhithunaiyae",
+    "start": "182.69",
+    "end": "184.97"
+  },
+  {
+    "word": "Vannam",
+    "start": "184.97",
+    "end": "185.59"
+  },
+  {
+    "word": "soozhndha",
+    "start": "185.59",
+    "end": "186.10"
+  },
+  {
+    "word": "idamellaam",
+    "start": "186.10",
+    "end": "186.96"
+  },
+  {
+    "word": "vaa-vaa",
+    "start": "186.96",
+    "end": "187.74"
+  },
+  {
+    "word": "oadi",
+    "start": "187.74",
+    "end": "188.36"
+  },
+  {
+    "word": "thiruvom",
+    "start": "188.36",
+    "end": "188.99"
+  },
+  {
+    "word": "vaa",
+    "start": "188.99",
+    "end": "189.55"
+  },
+  {
+    "word": "En",
+    "start": "189.55",
+    "end": "189.89"
+  },
+  {
+    "word": "thunaiyae,",
+    "start": "189.89",
+    "end": "191.93"
+  },
+  {
+    "word": "vazhithunaiyae",
+    "start": "191.93",
+    "end": "193.05"
+  },
+  {
+    "word": "neeyae",
+    "start": "193.05",
+    "end": "194.42"
+  }
+]
